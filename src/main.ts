@@ -22,4 +22,3 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 `;
 
 setupCounter(document.querySelector<HTMLButtonElement>('#counter')!);
-console.log(new Date('2021-05-01'));
